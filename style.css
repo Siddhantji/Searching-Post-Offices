@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.row {
+  margin: 0px;
+}
+.color {
+  color: #b8bccc;
+}
+.background {
+  background-color: #575a85;
+}
+.border {
+  border: 1px solid #575a85;
+  background-color: #575a85;
+  border-radius: 5px;
+  color: #b8bccc;
+  width: 40%;
+}
+.border h3 {
+  margin-left: 18px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+}
+.dark {
+  color: #b8bccc80;
+}
+::placeholder {
+  color: #b8bccc;
+  padding-left: px;
+}
+input {
+  background-image: url("./Vector.png");
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  background-position: left ;
+  padding-left: 35px;
+}
